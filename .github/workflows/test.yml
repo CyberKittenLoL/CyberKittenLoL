@@ -1,0 +1,30 @@
+name: Test Fetch GitHub Stats
+
+on:
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  fetch-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install node-fetch dotenv
+
+      - name: Fetch repository stats and test connection
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node fetchStats.js
+
+      - name: Verify output
+        run: |
+          echo "Verifying fetched data..."
+          cat languageStats.json
