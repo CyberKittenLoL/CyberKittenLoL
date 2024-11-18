@@ -1,9 +1,9 @@
-const fetch = require("node-fetch");
-const fs = require("fs");
-require("dotenv").config();
+import fetch from "node-fetch";
+import { promises as fs } from "fs";
+import "dotenv/config";
 
 const token = process.env.GITHUB_TOKEN;
-const owner = "cyberkittenlol"; // Replace with the owner's username or organization name
+const owner = "YOUR_OWNER"; // Replace with the owner's username or organization name
 
 async function getRepos(owner) {
   const url = `https://api.github.com/users/${owner}/repos`;
@@ -44,7 +44,7 @@ async function main() {
   }
 
   const jsonData = JSON.stringify(languageStats, null, 2);
-  fs.writeFileSync("languageStats.json", jsonData);
+  await fs.writeFile("languageStats.json", jsonData);
 
   //     const readmeContent = `
   // ## Language Statistics
@@ -52,8 +52,7 @@ async function main() {
   // ${Object.entries(languageStats).map(([language, lines]) => `${language}: ${lines}`).join('\n')}
   //     `;
 
-  // fs.writeFileSync('README.md', readmeContent);
-  console.log("Language statistics saved to languageStats.json");
+  //     await fs.writeFile('README.md', readmeContent);
 }
 
 main();
