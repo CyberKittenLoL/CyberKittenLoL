@@ -9,6 +9,8 @@
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) -->
 
 
+<!-- ![Badge](https://visitor-counter-badge.vercel.app/api/cyberkittenlol/Anime1-downloader/) -->
+
 
 Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Computer Science (BS)](https://www.cds.hku.hk/)
 
@@ -35,17 +37,16 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
 <br />
 
 <div align="center">
-    <img align="left" width="50%" height="200px" alt="GitHub Stats"
-        src="https://github-readme-stats.vercel.app/api?username=cyberkittenlol&show_icons=true&theme=synthwave&hide_border=true&bg_color=135,260133,06025b&border_radius=6" />
-    <img width="43%" height="200px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberkittenlol&theme=synthwave&hide_border=true&bg_color=135,260133,06025b&border_radius=6"
+    <img align="left" width="50%" height="200px" alt="GitHub Stats" title="GitHub Stats"
+        src="https://github-readme-stats-cyberkittens-projects.vercel.app/api?username=cyberkittenlol&show_icons=true&theme=synthwave&hide_border=true&bg_color=135,260133,06025b&border_radius=6" />
+    <img width="43%" height="200px" style="min-width: 300px;"
+        src="https://github-readme-stats-cyberkittens-projects.vercel.app/api/top-langs/?username=cyberkittenlol&theme=synthwave&hide_border=true&bg_color=135,260133,06025b&border_radius=6&exclude_repo=github-readme-stats&layout=compact"
         alt="Top Langs" />
 </div>
 <br /><br />
 <div align="center">
-    <img align="left" width="45%" height="200px"
-        src="https://github-profile-trophy.vercel.app/?rank=-?,-C&row=2&column=2&margin-w=10&username=cyberkittenlol&theme=dracula&margin-h=15&no-frame=true"
-        alt="Trophy">
+    <img align="left" width="45%" height="200px" alt="Trophy" title="Trophy"
+        src="https://github-profile-trophy.vercel.app/?rank=-?,-C&row=2&column=2&margin-w=10&username=cyberkittenlol&theme=dracula&margin-h=15&no-frame=true">
     <a align="right" href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG">
         <img width="40%" height="200px"
             src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNkcDA1cjNzd3h5NWsxY284MWZ4cTNlMGV3MTIzaTl5YWl3M3JhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"
@@ -53,7 +54,9 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
     </a>
 </div>
 
+
 <br />
+
 
 ## My Favorite Song List 𝄞⨾𓍢ִ໋♬⋆.˚𝄢ᡣ𐭩
 ###### No ideas why I put this here but here is it, so enjoy it.<br />These songs are from Youtube and video's thumbnail, click and redirect to the Youtube video.
