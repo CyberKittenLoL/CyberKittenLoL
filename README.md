@@ -1,8 +1,9 @@
 # Hi! Nice to meet you!
 
-![GitHub followers](https://img.shields.io/github/followers/cyberkittenlol?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/cyberkittenlol?label=Followed&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat&logo=Google-Chrome&logoColor=white&link=https://cyberkittenlol.github.io/)](https://cyberkittenlol.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ng-ka-yiu/)](https://www.linkedin.com/in/ng-ka-yiu/)
+[![HKU](https://img.shields.io/badge/🏫%20HKU-1DA1F2.svg?&style=flat&logo=,&logoColor=white&link=https://www.hku.hk/)](https://www.hku.hk/)
 <!-- [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=flat&logo=Discord&logoColor=white&link=https://discord.com/users/)](https://discord.com/users/) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/) -->
@@ -55,7 +56,7 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
 <br />
 
 ## My Favorite Song List 𝄞⨾𓍢ִ໋♬⋆.˚𝄢ᡣ𐭩
-###### No ideas why I put this here but here is it, so enjoy it.<br />These songs are from youtube, click and redirect to the youtube video.
+###### No ideas why I put this here but here is it, so enjoy it.<br />These songs are from Youtube and video's thumbnail, click and redirect to the Youtube video.
 <br />
 
 <div align="center">
@@ -63,18 +64,23 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
 
 [<img title="Youtube Video Dignity Ado" src="https://img.youtube.com/vi/Q9X0J_tLHwY/maxresdefault.jpg"
         alt="YouTube video id Q9X0J_tLHwY" width="300px" />](https://www.youtube.com/watch?v=Q9X0J_tLHwY)
-
+<br />
 [<a title="Youtube Video Dignity Ado" href="https://www.youtube.com/watch?v=Q9X0J_tLHwY">Dignity - Ado</a>]()
-
-
-
+<br />
 <p>•────────────</p>
 
 ↻&nbsp;&nbsp;|◁&nbsp;&nbsp;&nbsp;[▷](https://www.youtube.com/watch?v=Q9X0J_tLHwY)&nbsp;&nbsp;▷|&nbsp;&nbsp;↺
 
+<br /><br />
+
+[<img title="Youtube Video Anythime Anywhere - Milet" src="https://img.youtube.com/vi/r105CzDvoo0/maxresdefault.jpg"
+        alt="YouTube video id r105CzDvoo0" width="300px" />](https://www.youtube.com/watch?v=r105CzDvoo0)
+<br />
+[<a title="Youtube Video Anythime Anywhere - Milet" href="https://www.youtube.com/watch?v=r105CzDvoo0">Anythime Anywhere - Milet</a>]()
 
 </div>
 
+<br />
 
 ## Projects
 
@@ -83,11 +89,15 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
 </ul>
 
 
+<br /><br />
+<!-- 
 ## References / Credits
 
 [Github Stats](https://github.com/anuraghazra/github-readme-stats) - by [anuraghazra](https://github.com/anuraghazra)
 
-[Github Trophy](https://github.com/ryo-ma/github-profile-trophy) - by [ryo-ma](https://github.com/ryo-ma)
+[Github Trophy](https://github.com/ryo-ma/github-profile-trophy) - by [ryo-ma](https://github.com/ryo-ma) 
+
+-->
 
 <!--
 **CyberKittenLoL/CyberKittenLoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
