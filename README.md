@@ -76,6 +76,12 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
 </div>
 
 
+## Projects
+
+<ul style="list-style:circle;">
+    <li><a href="https://cyberkittenlol.github.io/hkuclass">HKUCLASS</a></li>
+</ul>
+
 
 ## References / Credits
 
