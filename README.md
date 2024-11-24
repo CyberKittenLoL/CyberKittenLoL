@@ -64,22 +64,16 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
 
 <div align="center">
 
+[<img align="left" src="https://api-git-main-cyberkittens-projects.vercel.app/api/musicplayersvg/?v=3&url=Q9X0J_tLHwY&t=3&c=0" width="48%" />](https://www.youtube.com/watch?v=Q9X0J_tLHwY)
 
-[<img title="Youtube Video Dignity Ado" src="https://img.youtube.com/vi/Q9X0J_tLHwY/maxresdefault.jpg"
-        alt="YouTube video id Q9X0J_tLHwY" width="300px" />](https://www.youtube.com/watch?v=Q9X0J_tLHwY)
-<br />
-[<a title="Youtube Video Dignity Ado" href="https://www.youtube.com/watch?v=Q9X0J_tLHwY">Dignity - Ado</a>]()
-<br />
-<p>•────────────</p>
+[<img src="https://api-git-main-cyberkittens-projects.vercel.app/api/musicplayersvg/?v=3&url=r105CzDvoo0&t=3&c=1" width="48%" />](https://www.youtube.com/watch?v=Q9X0J_tLHwY)
 
-↻&nbsp;&nbsp;|◁&nbsp;&nbsp;&nbsp;[▷](https://www.youtube.com/watch?v=Q9X0J_tLHwY)&nbsp;&nbsp;▷|&nbsp;&nbsp;↺
+</div>
+<div align="center">
 
-<br /><br />
+[<img align="left" src="https://api-git-main-cyberkittens-projects.vercel.app/api/musicplayersvg/?v=3&url=aOKa-5AHCtU&t=3&c=2" width="48%" />](https://www.youtube.com/watch?v=Q9X0J_tLHwY)
 
-[<img title="Youtube Video Anythime Anywhere - Milet" src="https://img.youtube.com/vi/r105CzDvoo0/maxresdefault.jpg"
-        alt="YouTube video id r105CzDvoo0" width="300px" />](https://www.youtube.com/watch?v=r105CzDvoo0)
-<br />
-[<a title="Youtube Video Anythime Anywhere - Milet" href="https://www.youtube.com/watch?v=r105CzDvoo0">Anythime Anywhere - Milet</a>]()
+[<img src="https://api-git-main-cyberkittens-projects.vercel.app/api/musicplayersvg/?v=3&url=xSxjhvy8vrU&t=3&c=3" width="48%" />](https://www.youtube.com/watch?v=xSxjhvy8vrU)
 
 </div>
 
