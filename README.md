@@ -28,10 +28,7 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
     <img src="https://img.shields.io/badge/HTML-260133?style=flat&logo=html5" alt="html" />
     <img src="https://img.shields.io/badge/css-260133?style=flat&logo=css3" alt="css" />
     <img src="https://img.shields.io/badge/Javascript-260133?style=flat&logo=javascript" alt="javascript" />
-    <br />
     <img src="https://img.shields.io/badge/Git-260133?style=flat&logo=git" alt="Git" />
-    <img src="https://img.shields.io/badge/Vim-260133?style=flat&logo=vim" alt="Vim" />
-    <img src="https://img.shields.io/badge/VSCode-260133?style=flat&logo=visual-studio-code" alt="VSCode" />
 </div>
 
 <br />
