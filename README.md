@@ -77,33 +77,17 @@ Studying in 🏫 [The University of Hong Kong](https://www.hku.hk/) in 💻 [Com
 <br />
 
 ## Projects
-
+- Currently None
+<!-- 
 <ul style="list-style:circle;">
     <li><a href="https://cyberkittenlol.github.io/hkuclass">HKUCLASS</a></li>
 </ul>
-
-
-<br /><br />
-<!-- 
-## References / Credits
-
-[Github Stats](https://github.com/anuraghazra/github-readme-stats) - by [anuraghazra](https://github.com/anuraghazra)
-
-[Github Trophy](https://github.com/ryo-ma/github-profile-trophy) - by [ryo-ma](https://github.com/ryo-ma) 
-
 -->
 
-<!--
-**CyberKittenLoL/CyberKittenLoL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br /><br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+## References / Credits
+[Github Stats](https://github.com/anuraghazra/github-readme-stats) - by [anuraghazra](https://github.com/anuraghazra)
+[Github Trophy](https://github.com/ryo-ma/github-profile-trophy) - by [ryo-ma](https://github.com/ryo-ma) 
 -->
